@@ -1,0 +1,20 @@
+{
+  "name": "tradesies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g22-odin/tradesies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g22-odin/tradesies/issues"
+  },
+  "homepage": "https://github.com/g22-odin/tradesies#readme"
+}
